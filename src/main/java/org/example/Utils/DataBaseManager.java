@@ -19,7 +19,7 @@ public class DataBaseManager implements Serializable {
     private String URL;//= PortForwarder.forwardAnyPort();
 
     private String USER = "s284699";
-    private String PASSWORD = "gyo678";
+    private String PASSWORD = "";
 
     //Нужны для авторизации пользователя
 
